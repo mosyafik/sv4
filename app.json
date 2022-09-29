@@ -1,7 +1,7 @@
 {
-	"name": "naze",
+	"name": "Mos",
 	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/nazedev/naze",
+	"repository": "https://github.com/mosyafik/sv4",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
